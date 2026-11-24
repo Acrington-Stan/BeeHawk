@@ -1,3 +1,6 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Version](https://img.shields.io/badge/version-0.0.1-informational)
+![Python](https://img.shields.io/badge/python-%3E%3D3.13-yellow)
 ### BeeHawk
 ***
 &nbsp; BeeHawk (shorthand for Bee Hawk-moth) is a napari plugin designed
